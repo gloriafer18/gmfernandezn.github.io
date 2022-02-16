@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## About my research
 
-You can use the [editor on GitHub](https://github.com/gloriafer18/gmfernandezn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Gloria received the B.S. degree in Telematics Engineering from Universidad Distrital Francisco Jose de Caldas, Bogotá, Colombia, in 2011 and the M.S. degree in computer science from Universidad de Los Andes, Bogotá, Colombia, in 2015. She is currently a Ph.D. candidate at the Connected Intelligence Centre, University of Technology Sydney, Sydney, Australia. Her current research focuses on exploring alternatives of feedback to understand traces from data collected in the computer-supported collaborative learning classroom, with the goal of prompting reflection in teaching and learning practices. I enjoy working with sensor-data, visualisation, learning analytics and generally working with data in transdisciplinary fields. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
