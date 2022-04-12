@@ -1,4 +1,4 @@
-![Me in Sydney](/Gloria.png)
+![Me in Sydney](/Gloria.jpg)
 # Who am I?
 
 My name is Gloria Milena Fernández Nieto, I am pasionate about data, analytics, and visualisations. My interest on technology and more specifically on how data can be useful to support others to make decisions or in general to support others practices grew up while I was doing my bachelor and during my master. Now as a Ph.D candidate I am fascinated to investigate how sensor-data can facilitate the provision of great tools to help teachers and students to reflect on their collocated (physical) activities (e.g. teamwork, collaboration, or spatial behaviours).
@@ -11,9 +11,9 @@ Gloria received the B.S. degree in Telematics Engineering from Universidad Distr
 
 ## Journal papers
 
-Gloria Milena Fernandez-Nieto, Pengcheng An, Jian Zhao, Simon Buckingham Shum, and Roberto Martinez-Maldonado. 2022. Classroom Dandelions: Visualising Participant Position, Trajectory and Body Orientation Augments Teachers' Sensemaking. In CHI Conference on Human Factors in Computing Systems (CHI'22), April 29-May 5, 2022, New Orleans, LA, USA. ACM, New York, NY, USA, 17 pages. https://doi.org/10.1145/3491102.351773 2022. 
+Gloria Milena Fernandez-Nieto, Pengcheng An, Jian Zhao, Simon Buckingham Shum, and Roberto Martinez-Maldonado. 2022. Classroom Dandelions: Visualising Participant Position, Trajectory and Body Orientation Augments Teachers' Sensemaking. In CHI Conference on Human Factors in Computing Systems (CHI'22), April 29-May 5, 2022, New Orleans, LA, USA. ACM, New York, NY, USA, 17 pages. https://doi.org/10.1145/3491102.351773. 
 
-Gloria Milena Fernandez-Nieto et al., "Storytelling With Learner Data: Guiding Student Reflection on Multimodal Team Data", in IEEE Transactions on Learning Technologies, doi: 10.1109/TLT.2021.3131842.
+Gloria Milena Fernandez-Nieto et al. 2021, "Storytelling With Learner Data: Guiding Student Reflection on Multimodal Team Data", in IEEE Transactions on Learning Technologies, doi: 10.1109/TLT.2021.3131842.
 
 
 Gloria Milena Fernandez-Nieto, Roberto Martinez-Maldonado, Vanessa Echeverria, Kirsty Kitto, Pengcheng An,and Simon Buckingham Shum. 2021. What Can Analytics for Teamwork Proxemics Reveal About Positioning Dynamics In Clinical Simulations?. Proc. ACM Hum. Comput. Interact.5, CSCW1, Article 185 (April 2021),24 pages. https://doi.org/10.1145/3449284
@@ -29,7 +29,7 @@ Gloria Milena Fernandez-Nieto, Roberto Martinez-Maldonado, Kirsty Kitto,and Simo
 
 Lixiang Yan, Roberto Martinez-Maldonado, Beatriz Gallo Cordoba, Joanne Deppeler, Deborah Corrigan, Gloria Fernandez Nieto, and Dragan Gasevic. 2021. Footprints at School: Modelling In-class Social Dynamics from Students’ Physical Positioning Traces. In LAK21: 11th International Learning Analytics and Knowledge Conference (LAK21). Association for Computing Machinery, New York, NY, USA, 43\textendash54. DOI:https://doi.org/10.1145/3448139.3448144
 
-Martinez-Maldonado, R., Ga{\v{s}}evi{\'{c}}, D., Echeverria, V., Fernandez-Nieto, G., Swiecki, Z., and Buckingham Shum, S. (2021). What Do You Mean by Collaboration Analytics? A Conceptual Model. Journal of Learning Analytics, 8(1), 126-153.  doi: https://doi.org/10.18608/jla.2021.7227
+Martinez-Maldonado, R., Gasevic, D., Echeverria, V., Fernandez-Nieto, G., Swiecki, Z., and Buckingham Shum, S. (2021). What Do You Mean by Collaboration Analytics? A Conceptual Model. Journal of Learning Analytics, 8(1), 126-153.  doi: https://doi.org/10.18608/jla.2021.7227
 
 Roberto Martinez-Maldonado, PhD; Vanessa Echeverria; Katerina Mangaroska; Antonette Shibani; Gloria Fernandez-Nieto; Jurgen Schulte; Simon Buckingham Shum. International Journal of Artificial Intelligence in Education (IJAIED'21). Moodoo the Tracker: Spatial Classroom Analytics for Characterising Teachers' Pedagogical Approaches. doi:  https://doi.org/10.1007/s40593-021-00276-w
 
