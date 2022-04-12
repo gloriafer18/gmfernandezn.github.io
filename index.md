@@ -1,7 +1,7 @@
 ![Me in Sydney](/Gloria.jpg)
 # Who am I?
 
-My name is Gloria Milena Fernández Nieto, I am from Bogotá, Colombia and I am pasionate about data, analytics, and visualisations. My interest on technology and more specifically on how data can be useful to support others to make decisions or in general to support others practices grew up while I was doing my bachelor and during my master. Now as a Ph.D candidate I am fascinated to investigate how sensor-data can facilitate the provision of great tools to help teachers and students to reflect on their collocated (physical) activities (e.g. teamwork, collaboration, or spatial behaviours).
+My name is Gloria Milena Fernández Nieto, I am from Bogotá, Colombia and I am passionate about data, analytics, and visualisations. My interest on technology and more specifically on how data can be useful to support others to make decisions or in general to support others practices grew up while I was doing my bachelor and during my master. Now as a Ph.D candidate I am fascinated to investigate how sensor-data can facilitate the provision of great tools to help teachers and students to reflect on their collocated (physical) activities (e.g. teamwork, collaboration, or spatial behaviours).
 
 # About my research
 
@@ -27,7 +27,7 @@ Gloria Milena Fernandez-Nieto,Simon Buckingham Shum, Kirsty Kitto, and Roberto M
 
 Gloria Milena Fernandez-Nieto, Roberto Martinez-Maldonado, Kirsty Kitto,and Simon Buckingham Shum. 2021. Modelling Spatial Behaviours in Clinical Team Simulations using Epistemic Network Analysis: Methodology and Teacher Evaluation. In LAK21: 11th International Learning Analytics and Knowledge Conference (LAK21), April 12\textendash16, 2021, Irvine, CA, USA.ACM,New York, NY, USA, 11 pages. https://doi.org/10.1145/3448139.3448176
 
-Lixiang Yan, Roberto Martinez-Maldonado, Beatriz Gallo Cordoba, Joanne Deppeler, Deborah Corrigan, Gloria Fernandez Nieto, and Dragan Gasevic. 2021. Footprints at School: Modelling In-class Social Dynamics from Students’ Physical Positioning Traces. In LAK21: 11th International Learning Analytics and Knowledge Conference (LAK21). Association for Computing Machinery, New York, NY, USA, 43\textendash54. DOI:https://doi.org/10.1145/3448139.3448144
+Lixiang Yan, Roberto Martinez-Maldonado, Beatriz Gallo Cordoba, Joanne Deppeler, Deborah Corrigan, Gloria Fernandez Nieto, and Dragan Gasevic. 2021. Footprints at School: Modelling In-class Social Dynamics from Students’ Physical Positioning Traces. In LAK21: 11th International Learning Analytics and Knowledge Conference (LAK21). Association for Computing Machinery, New York, NY, USA, 43-54. DOI:https://doi.org/10.1145/3448139.3448144
 
 Martinez-Maldonado, R., Gasevic, D., Echeverria, V., Fernandez-Nieto, G., Swiecki, Z., and Buckingham Shum, S. (2021). What Do You Mean by Collaboration Analytics? A Conceptual Model. Journal of Learning Analytics, 8(1), 126-153.  doi: https://doi.org/10.18608/jla.2021.7227
 
@@ -41,7 +41,7 @@ Miguel A. Ronda, Olga C. Santos, Roberto Martinez-Maldonado and Gloria Fernandez
 
 
 
-## Workshop:
+## Workshop/Tutorial Chair:
 
 Vanessa Echeverria, Lu Lawrence, Yi-Shan Tsai, Shaveen Singh, Gloria Fernandez-Nieto, Roberto Martinez-Maldonado. A Tutorial on Data Storytelling for Learning Analytics Dashboards. LAK21 Workshop.
 
