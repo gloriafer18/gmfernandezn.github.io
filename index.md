@@ -35,8 +35,9 @@ Roberto Martinez-Maldonado, PhD; Vanessa Echeverria; Katerina Mangaroska; Antone
 
 ## Workshop papers:
 
-G. Fernandez-Nieto, K. Kitto, and R. Martinez Maldonado, Four Challenges in Crafting Multimodal Collaboration Analytics for non-Data experts, 2019. In CSCL 2019, Collaboration Analytics. \href{https://collaborationanalytics.files.wordpress.com/2019/06/submission-7-fernandez.pdf}{available here} 
-\item Miguel A. Ronda, Olga C. Santos, Roberto Martinez-Maldonado and \textbf{Gloria Fernandez-Nieto}. Exploring Emotional Reactions in Teamwork using Multimodal Physiological Data. MAIEd'21. 12 pages.
+G. Fernandez-Nieto, K. Kitto, and R. Martinez Maldonado, Four Challenges in Crafting Multimodal Collaboration Analytics for non-Data experts, 2019. In CSCL 2019, Collaboration Analytics. [PDF](https://collaborationanalytics.files.wordpress.com/2019/06/submission-7-fernandez.pdf)
+
+Miguel A. Ronda, Olga C. Santos, Roberto Martinez-Maldonado and Gloria Fernandez-Nieto. Exploring Emotional Reactions in Teamwork using Multimodal Physiological Data. MAIEd'21. 12 pages. 
 
 
 
