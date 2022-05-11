@@ -1,4 +1,9 @@
 ![Me in Sydney](/Gloria.jpg)
+
+# Current work
+
+[Teamwork Analytics](https://github.com/Teamwork-Analytics)
+
 # Who am I?
 
 My name is Gloria Milena Fernández Nieto, I am from Bogotá, Colombia and I am passionate about data, analytics, and visualisations. My interest on technology and more specifically on how data can be useful to support others to make decisions or in general to support others practices grew up while I was doing my bachelor and during my master. Now as a Ph.D candidate I am fascinated to investigate how sensor-data can facilitate the provision of great tools to help teachers and students to reflect on their collocated (physical) activities (e.g. teamwork, collaboration, or spatial behaviours).
