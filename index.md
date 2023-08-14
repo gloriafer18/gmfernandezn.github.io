@@ -1,4 +1,4 @@
-![Me in Sydney](/Gloria.jpg)
+#![Me in Sydney](/Gloria.jpg)
 
 # Who am I?
 
