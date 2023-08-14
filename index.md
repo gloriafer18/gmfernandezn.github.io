@@ -1,16 +1,17 @@
 ![Me in Sydney](/Gloria.jpg)
 
-# Current work
-
-[Teamwork Analytics](https://github.com/Teamwork-Analytics)
-
 # Who am I?
 
-My name is Gloria Milena Fernández Nieto, I am from Bogotá, Colombia and I am passionate about data, analytics, and visualisations. My interest on technology and more specifically on how data can be useful to support others to make decisions or in general to support others practices grew up while I was doing my bachelor and during my master. Now as a Ph.D candidate I am fascinated to investigate how sensor-data can facilitate the provision of great tools to help teachers and students to reflect on their collocated (physical) activities (e.g. teamwork, collaboration, or spatial behaviours).
+My name is Gloria Milena Fernández Nieto, I am from Bogotá, Colombia. I am passionate about data, analytics, and visualisations. My interest in using data to support others' practices grew while doing my bachelor's and during my master's. In 2023 I received my PhD in Learning Analytics. I am fascinated to investigate how sensor data can facilitate the capture of traces that could support a better understanding of learning/teaching activities. Data traces are valuable resources to identify insights for teachers and students to reflect on their collocated (physical)/online activities (e.g. teamwork, collaboration, or spatial behaviours).
+
+# Current work
+
+I am a Research Fellow in the Faculty of Information Technology, [Monash University](https://research.monash.edu/en/persons/gloria-fernandez-nieto), Australia. My current research focus on Knowledge Management Systems and how they can be design and implemented to support communities of practice of educators. This research is part of the project “Large-scale multimodal knowledge management: From organization and user modeling to fast contextual presentation” funding by the Defense Advanced Research Projects Agency in the US (DARPA-KMASS).
 
 # About my research
 
 Gloria received the B.S. degree in Telematics Engineering from Universidad Distrital Francisco Jose de Caldas, Bogotá, Colombia, in 2011 and the M.S. degree in computer science from Universidad de Los Andes, Bogotá, Colombia, in 2015. She is currently a Ph.D. candidate at the Connected Intelligence Centre, University of Technology Sydney, Sydney, Australia. Her current research focuses on exploring alternatives of feedback to understand traces from data collected in the computer-supported collaborative learning classroom, with the goal of prompting reflection in teaching and learning practices. I enjoy working with sensor-data, visualisation, learning analytics and generally working with data in transdisciplinary fields. 
+More information in: [Teamwork Analytics](https://github.com/Teamwork-Analytics)
 
 # Publications
 
