@@ -2,7 +2,9 @@
 
 # Who am I?
 
-My name is Gloria Milena Fernández Nieto, I am from Bogotá, Colombia. I am passionate about data, analytics, and visualisations. My interest in using data to support others' practices grew while doing my bachelor's and during my master's. In 2023 I received my PhD in Learning Analytics. I am fascinated to investigate how sensor data can facilitate the capture of traces that could support a better understanding of learning/teaching activities. Data traces are valuable resources to identify insights for teachers and students to reflect on their collocated (physical)/online activities (e.g. teamwork, collaboration, or spatial behaviours).
+My name is Gloria Milena Fernández Nieto. I am originally from Bogotá, Colombia, and have a passion for data, analytics, and visualisations. My interest in using data to support others' practices grew during both my bachelor's and master's degrees. 
+In 2023, I completed my PhD in Learning Analytics. I am fascinated by the potential of physical and online data traces that could be used to support a better understanding of learning/teaching activities. Data traces are valuable resources 
+for teachers and students to identify insights and reflect on their co-located activities such as teamwork, collaboration, self-regulated learning, or spatial behaviours.
 
 # Current work
 
