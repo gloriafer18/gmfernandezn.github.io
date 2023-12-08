@@ -10,10 +10,13 @@ for teachers and students to identify insights and reflect on their co-located a
 
 I am a Research Fellow in the Faculty of Information Technology, [Monash University](https://research.monash.edu/en/persons/gloria-fernandez-nieto), Australia. My current research focus on Knowledge Management Systems and how they can be design and implemented to support communities of practice of educators. This research is part of the project “Large-scale multimodal knowledge management: From organization and user modeling to fast contextual presentation” funded by the Defense Advanced Research Projects Agency in the US (DARPA-KMASS).
 
+I enjoy working with sensor-data, visualisation, learning analytics, and generally working with data in transdisciplinary fields. More information in: Teamwork Analytics
+
 # About my research
 
-I received my B.S. degree in Telematics Engineering from Universidad Distrital Francisco Jose de Caldas, Bogotá, Colombia, in 2011 and my M.S. degree in computer science from Universidad de Los Andes, Bogotá, Colombia, in 2015. In 2013 I received my Ph.D. degree in Learning Analytis at the Connected Intelligence Centre, University of Technology Sydney, Sydney, Australia. My current research focuses on exploring alternatives of feedback to understand traces from data collected in the computer-supported collaborative learning classroom, with the goal of prompting reflection in teaching and learning practices. I enjoy working with sensor-data, visualisation, learning analytics, and generally working with data in transdisciplinary fields. 
-More information in: [Teamwork Analytics](https://github.com/Teamwork-Analytics)
+I explore alternative feedback methods to analyse learner and educator digital/physical traces, aiming to stimulate reflection in teaching and learning practices. I leverage my expertise in human-computer interaction, collaborative learning, and 
+artificial intelligence to design analytics dashboards, knowledge management systems, and data storytelling tools for regular classrooms and healthcare settings. Recently, I pioneered the application of co-design methods at the intersection of 
+education and data science.
 
 # Publications
 
