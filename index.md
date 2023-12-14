@@ -1,5 +1,7 @@
 <!---![Me in Sydney](/Gloria.jpg)-->
 
+[Home]({{site.baseurl}}/index) |
+
 # Who am I?
 
 My name is Gloria Milena Fernández Nieto. I am originally from Bogotá, Colombia, and have a passion for data, analytics, and visualisations. My interest in using data to support others' practices grew 
