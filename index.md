@@ -16,8 +16,9 @@ deploying innovative tools to enhance teaching and learning analytics across phy
 My work aims to find the optimal alignment between learning pedagogies and the potential of emerging technologies, providing lasting support for both learners and educators.
 
 Key areas of my research include:
-* Knowledge Management Systems: I work on the design and development of a system that facilitate knowledge management within communities of practice for educators. This research is funded by the 
-Defense Advanced Research Projects Agency (DARPA-KMASS) under the "Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation" project.
+* Knowledge Management Systems: I work on the design and development of a system that facilitate knowledge management within communities of practice for educators. My research includes the exploration 
+of the role of data comics, a storytelling approach, in communicating and disseminating knowledge within the context of teachers' natural  workflows.
+This research is funded by the Defense Advanced Research Projects Agency (DARPA-KMASS) under the "Large-scale multimodal knowledge management: From organization and user modelling to fast contextual presentation" project.
 * Teamwork Analytics: I investigate the use of data traces to provide feedback through visualisations and **data storytelling** elements, assisting teachers and students in their sensemaking 
 processes. 
 More information about this research is available on [Teamwork Analytics](https://github.com/Teamwork-Analytics)
@@ -26,8 +27,8 @@ More information about this research is available on [Teamwork Analytics](https:
 # About my research
 
 I explore alternative feedback methods to analyse learner and educator digital/physical traces, aiming to stimulate reflection in teaching and learning practices. I leverage my expertise in human-computer interaction, collaborative learning, and 
-artificial intelligence to design analytics dashboards, knowledge management systems, and data storytelling tools for regular classrooms and healthcare settings. Recently, I pioneered the application of co-design methods at the intersection of 
-education and data science.
+artificial intelligence to design analytics dashboards, knowledge management systems, and data storytelling tools for regular classrooms and healthcare settings. Recently, I pioneered the application 
+of different forms of participatory design such as **co-design** at the intersection of education and data science.
 
 # Publications
 
@@ -35,22 +36,22 @@ education and data science.
 
 Roberto Martinez-Maldonado, Vanessa Echeverria, **Gloria Fernandez-Nieto**, Lixiang Yan, Linxuan Zhao, Riordan Alfredo, Xinyu Li, Samantha Dix, Hollie Jaggard, Rosie Wotherspoon, Abra Osborne, Simon 
 Buckingham Shum, and Dragan Gašević. 2023. Lessons Learnt from a Multimodal Learning Analytics Deployment In-the-Wild. ACM Trans. Comput.-Hum. Interact. 31, 1, Article 8 (February 2024), 41 pages. 
-https://doi.org/10.1145/3622784
+doi: [https://doi.org/10.1145/3622784](https://doi.org/10.1145/3622784)
 
 Vanessa Echeverria, Roberto Martinez-Maldonado, Lixiang Yan, Linxuan Zhao, **Gloria Fernandez-Nieto**, Dragan Gašević, Simon Buckingham Shum,  "HuCETA: A Framework for Human-Centered Embodied Teamwork
-Analytics," in IEEE Pervasive Computing, vol. 22, no. 1, pp. 39-49, 1 Jan.-March 2023, doi: 10.1109/MPRV.2022.3217454.
+Analytics," in IEEE Pervasive Computing, vol. 22, no. 1, pp. 39-49, 1 Jan.-March 2023, doi: [https://doi.org/10.1109/MPRV.2022.3217454](https://doi.org/10.1109/MPRV.2022.3217454)
 
 **Gloria Milena Fernandez-Nieto**, Pengcheng An, Jian Zhao, Simon Buckingham Shum, and Roberto Martinez-Maldonado. 2022. Classroom Dandelions: Visualising Participant Position, Trajectory and Body 
 Orientation Augments Teachers' Sensemaking. In CHI Conference on Human Factors in Computing Systems (CHI'22), April 29-May 5, 2022, New Orleans, LA, USA. ACM, New York, NY, USA, 17 pages. https://doi.org/10.1145/3491102.351773. 
 
 **Gloria Milena Fernandez-Nieto** et al. 2021, "Storytelling With Learner Data: Guiding Student Reflection on Multimodal Team Data", in IEEE Transactions on Learning Technologies, doi: 
-10.1109/TLT.2021.3131842.
+[https://doi.org/10.1109/TLT.2021.3131842](https://doi.org/10.1109/TLT.2021.3131842)
 
 **Gloria Milena Fernandez-Nieto**, Roberto Martinez-Maldonado, Vanessa Echeverria, Kirsty Kitto, Pengcheng An,and Simon Buckingham Shum. 2021. What Can Analytics for Teamwork Proxemics Reveal About 
-Positioning Dynamics In Clinical Simulations?. Proc. ACM Hum. Comput. Interact.5, CSCW1, Article 185 (April 2021),24 pages. https://doi.org/10.1145/3449284
+Positioning Dynamics In Clinical Simulations?. Proc. ACM Hum. Comput. Interact.5, CSCW1, Article 185 (April 2021),24 pages. doi: [https://doi.org/10.1145/3449284](https://doi.org/10.1145/3449284)
    
 Roberto Martinez-Maldonado, Vanessa Echeverria, **Gloria Milena Fernandez-Nieto**, and Simon Buckingham Shum. 2020.From Data to Insights: A Layered Storytelling Approach for Multimodal Learning 
-Analytics. In CHI Conference on Human Factors in Computing Systems CHI'20. 15 pages. https://doi.org/10.1145/ 3313831.3376148
+Analytics. In CHI Conference on Human Factors in Computing Systems CHI'20. 15 pages. doi [https://doi.org/10.1145/ 3313831.3376148](https://doi.org/10.1145/ 3313831.3376148)
 
 ## Conference proceedings
 
@@ -62,7 +63,8 @@ Analysis using ChatGPT: A User Study and Design Recommendations. 1, 1 (November 
 
 **Gloria Milena Fernandez-Nieto**,Simon Buckingham Shum, Kirsty Kitto, and Roberto Martinez-Maldonado. 2022. Beyond the Learning Analytics Dashboard: Alternative Ways to Communicate Student Data 
 Insights 
-Combining Visualisation, Narrative and Storytelling. In LAK22: 12 th International Learning Analytics and Knowledge Conference (LAK22), March 21 \textendash 25, 2022, Online, USA.ACM, New York,NY, USA, 16 pages. https://doi.org/10.1145/3506860.3506895 [PDF](LAK22_FernandezNieto.pdf) - [2-col PDF](LAK22_FernandezNieto 2-col.pdf)
+Combining Visualisation, Narrative and Storytelling. In LAK22: 12 th International Learning Analytics and Knowledge Conference (LAK22), March 21 \textendash 25, 2022, Online, USA.ACM, New York,NY, 
+USA, 16 pages. [https://doi.org/10.1145/3506860.3506895](https://doi.org/10.1145/3506860.3506895) [PDF](LAK22_FernandezNieto.pdf) - [2-col PDF](LAK22_FernandezNieto 2-col.pdf)
 
 **Gloria Milena Fernandez-Nieto**, Roberto Martinez-Maldonado, Kirsty Kitto,and Simon Buckingham Shum. 2021. Modelling Spatial Behaviours in Clinical Team Simulations using Epistemic Network Analysis: 
 Methodology and Teacher Evaluation. In LAK21: 11th International Learning Analytics and Knowledge Conference (LAK21), April 12\textendash16, 2021, Irvine, CA, USA.ACM,New York, NY, USA, 11 pages. https://doi.org/10.1145/3448139.3448176
@@ -71,10 +73,11 @@ Lixiang Yan, Roberto Martinez-Maldonado, Beatriz Gallo Cordoba, Joanne Deppeler,
 Dynamics from Students’ Physical Positioning Traces. In LAK21: 11th International Learning Analytics and Knowledge Conference (LAK21). Association for Computing Machinery, New York, NY, USA, 43-54. DOI:https://doi.org/10.1145/3448139.3448144
 
 Martinez-Maldonado, R., Gasevic, D., Echeverria, V., **Fernandez-Nieto, G.**, Swiecki, Z., and Buckingham Shum, S. (2021). What Do You Mean by Collaboration Analytics? A Conceptual Model. Journal of 
-Learning Analytics, 8(1), 126-153.  doi: https://doi.org/10.18608/jla.2021.7227
+Learning Analytics, 8(1), 126-153.  doi: [https://doi.org/10.18608/jla.2021.7227](https://doi.org/10.18608/jla.2021.7227)
 
 Roberto Martinez-Maldonado, PhD; Vanessa Echeverria; Katerina Mangaroska; Antonette Shibani; **Gloria Fernandez-Nieto**; Jurgen Schulte; Simon Buckingham Shum. International Journal of Artificial 
-Intelligence in Education (IJAIED'21). Moodoo the Tracker: Spatial Classroom Analytics for Characterising Teachers' Pedagogical Approaches. doi:  https://doi.org/10.1007/s40593-021-00276-w. [**best 
+Intelligence in Education (IJAIED'21). Moodoo the Tracker: Spatial Classroom Analytics for Characterising Teachers' Pedagogical Approaches. doi:  
+[https://doi.org/10.1007/s40593-021-00276-w](https://doi.org/10.1007/s40593-021-00276-w) [**best 
 paper**]
 
 ## Workshop papers:
@@ -88,8 +91,12 @@ Miguel A. Ronda, Olga C. Santos, Roberto Martinez-Maldonado and **Gloria Fernand
 
 ## Workshop/Tutorial Chair:
 
-**Gloria Milena Fernandez-Nieto**, et al., Converging Data Storytelling Narratives and Learning Analytics Dashboards. LAK24. [Web page](https://datastorytelling-education.github.io/)
+LAK24 Workshop Chair [LAK24 Web page](https://www.solaresearch.org/events/lak/lak24/committees/)
 
-Vanessa Echeverria, Lu Lawrence, Yi-Shan Tsai, Shaveen Singh, **Gloria Fernandez-Nieto**, Roberto Martinez-Maldonado. A Tutorial on Data Storytelling for Learning Analytics Dashboards. LAK21 Workshop.
+Workshop Organiser: **Gloria Milena Fernandez-Nieto**, et al., Converging Data Storytelling Narratives and Learning Analytics Dashboards. LAK24. [Web 
+page](https://datastorytelling-education.github.io/)
 
-Roberto Martinez-Maldonado and **Gloria Fernandez-Nieto**. Multimodal Analytics for Classroom Proxemics. ALASI 2019.
+Workshop Organiser: Vanessa Echeverria, Lu Lawrence, Yi-Shan Tsai, Shaveen Singh, **Gloria Fernandez-Nieto**, Roberto Martinez-Maldonado. A Tutorial on Data Storytelling for Learning Analytics 
+Dashboards. LAK21 Workshop.
+
+Workshop Organiser: Roberto Martinez-Maldonado and **Gloria Fernandez-Nieto**. Multimodal Analytics for Classroom Proxemics. ALASI 2019.
