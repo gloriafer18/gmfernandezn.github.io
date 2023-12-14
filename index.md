@@ -1,6 +1,6 @@
 <!---![Me in Sydney](/Gloria.jpg)-->
 
-[Home]({{site.baseurl}}/index) | [Publications]({{site.baseurl}}/pages/publications) | 
+[Home]({{site.baseurl}}/index) | 
 
 # Who am I?
 
