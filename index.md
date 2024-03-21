@@ -1,6 +1,7 @@
 <!---![Me in Sydney](/Gloria.jpg)-->
 
 [Home]({{site.baseurl}}/index) | [![Twitter URL](https://img.shields.io/badge/Twitter-f1f1f1?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/@gmfernandezn) | [![Twitter URL](https://img.shields.io/badge/LinkedIn-f1f1f1?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gloria-fernandez-4baa7a4a/)
+| [![Google Scholar](https://img.shields.io/badge/Scholar-f1f1f1?style=for-the-badge&logo=google&logoColor=black)][https://scholar.google.com/citations?user=At47quwAAAAJ&hl=en&oi=ao] | [![Monash Profile](https://img.shields.io/badge/Monash%20Profile-f1f1f1?style=for-the-badge)][https://research.monash.edu/en/persons/gloria-fernandez-nieto]
 
 # Who am I?
 
