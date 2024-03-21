@@ -1,6 +1,6 @@
 <!---![Me in Sydney](/Gloria.jpg)-->
 
-[Home]({{site.baseurl}}/index) | [![Twitter URL](https://img.shields.io/twitter/url.svg?label=Follow%20%40gmfernandezn&style=social&url=https%3A%2F%2Ftwitter.com%2F%40gmfernandezn)](https://twitter.com/@gmfernandezn) | [![Twitter URL](https://img.shields.io/badge/LinkedIn-f1f1f1?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gloria-fernandez-4baa7a4a/)
+[Home]({{site.baseurl}}/index) | [![Twitter URL](https://img.shields.io/badge/Twitter-f1f1f1?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/@gmfernandezn) | [![Twitter URL](https://img.shields.io/badge/LinkedIn-f1f1f1?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gloria-fernandez-4baa7a4a/)
 
 # Who am I?
 
