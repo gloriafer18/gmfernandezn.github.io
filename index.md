@@ -58,6 +58,9 @@ Analytics. In CHI Conference on Human Factors in Computing Systems CHI'20. 15 pa
 
 ## Conference proceedings
 
+**Fernandez-Nieto, G.**, Swiecki, Z., Tsai, Y.-S., Sha, L., Wei, Y., Wen, J., . . . Gašević, D. (2024). Co-designing a knowledge management tool for educator communities of practice. ACM - DIS, 1970–1990. recent
+publication. doi: [https://doi.org/10.1145/3643834.3660682] 
+
 **Gloria Milena Fernandez-Nieto**, Roberto Martinez-Maldonado, Vanessa Echeverria, Kirsty Kitto, Dragan Gašević, and Simon Buckingham Shum. 2024. Data Storytelling Editor: A Teacher-Centred Tool for 
 Customising Learning Analytics Dashboard Narratives. In LAK24: 14th International Learning Analytics and Knowledge Conference (LAK 2024), March 18–22, 2024, Tokyo, Japan.
 
